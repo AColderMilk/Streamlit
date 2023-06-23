@@ -13,7 +13,6 @@ def load_lottieurl(url):
 
 
 # ---- LOAD ASSETS ----
-# Animations taken from Lottie Files
 lottie_coding = load_lottieurl("https://assets10.lottiefiles.com/packages/lf20_ycXDlOyJWi.json")
 
 # ---- HEADER SECTION ----
